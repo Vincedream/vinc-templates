@@ -1,1 +1,0 @@
-the template source of vinc-cli
